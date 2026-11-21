@@ -1,2 +1,12 @@
-# sweet17-downloads
-Sweet17 installers and signed update manifests. Local-network gameplay; no game server hosted here.
+# Sweet17
+
+אפליקציית המנחה למשחק Sweet17 ברשת המקומית.
+
+המתקינים יופיעו ב־[Releases](https://github.com/ancorossie1708/sweet17-downloads/releases).
+
+- המנחה מתקין את האפליקציה במחשב Windows או בטלפון Android.
+- השחקנים מתחברים לאותה רשת וסורקים את קוד ההצטרפות בדפדפן; אין צורך להתקין אפליקציה אצל השחקנים.
+- בדיקת עדכונים מתבצעת בפתיחה, לפני פתיחת שולחן חדש. ללא אינטרנט נשארת זמינה הגרסה המותקנת.
+- Android דורש אישור להתקנת העדכון.
+
+זהו מאגר הורדות בלבד. קוד המקור ומפתחות החתימה אינם מפורסמים כאן.
